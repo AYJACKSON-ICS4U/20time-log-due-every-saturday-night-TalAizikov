@@ -1,66 +1,28 @@
 package com.game.main;
 
 import java.awt.Canvas;
+import java.awt.Dimension;
 
-public class Game extends Canvas implements Runnable{
+import javax.swing.JFrame;
+
+
+public class Window extends Canvas {
+
+	private static final long serialVersionUID = -1478604005915452565L;
 	
-	private static final long serialVersionUID = -473349850293143017L;	
-	
-	public static final int WIDTH = 640, HEIGHT = WIDTH / 12 * 9;
-	
-	private Thread thread; 
-	private boolean running = false;
-	
-	public Game() {
-		new Window(WIDTH, HEIGHT, "GAME!!", this );
-	}
-	
-	public synchronized void start() {
-		thread = new Thread(this);
-		thread.start();
-		running = true;
-	}
-	public synchronized void stop() {
-		try {
-			thread.join();
-			running = false;
-		}catch(Exception e) {
-			e.printStackTrace();
-		}
-	}
-	
-	public void run() {
-		long lastTime = System.nanoTime();
-		double amountOfTicks = 60.0;
-		double ns = 1000000000 / amountOfTicks;
-		double delta = 0;
-		long timer = System.currentTimeMillis();
-		int frames = 0;
-		while (running) {
-			long now = System.nanoTime();
-			delta += (now - lastTime / ns);
-			lastTime = now;
-			while (delta >= 1) {
-				tick();
-				delta--;
-			}
-			if (running)
-				render();
-			frames++;
-			
-			if(System.currentTimeMillis() - timer > 1000) {
-				timer += 1000;
-				System.out.println("FPS: " + frames);
-				frames = 0;
-			}	
-		}
-		stop();
-	}
-	
-	public static void main(String args[]) {
-		new Game();
+	public Window(int width, int height, String title, Game game) {
+		JFrame frame = new JFrame(title);
 		
+		frame.setPreferredSize(new Dimension(width, height));
+		frame.setMaximumSize(new Dimension(width, height));
+		frame.setMinimumSize(new Dimension(width, height));
+		
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.setResizable(false);
+		frame.setLocationRelativeTo(null);
+		frame.add(game);
+		game.start();
+		frame.setVisible(true);
 		
 	}
-	
-}
+} 
