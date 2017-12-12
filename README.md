@@ -45,11 +45,15 @@ I chose to learn some more algorisms but there is _so many_ algorisms to remembe
 **I reached my goal with a time of 28.89!** I got my goal of under 30 seconds. I avrage about 45 seconds more or less. I think I will switched my 20 time to a game now. I will come up with an idea for next week and hopfully I will be able to execute it.
 
 ## Week 10 Log
+I know I can improve more, but I dont know if I want to. The faster your time comes the harder it is to get better. I started with 80 minutes and the second try I got 45 minutes. Now I need about 100 tries to improve my time by about 1 second. I will try to be able to average 30 second but I am not sure if it will work.
 
 ## Week 11 Log
+I got this **amazing** idea to unsolve a rubics cube. I want to be able to match someones scramble. I know it is really really hard but if I will be able to do it with an avarage of about 1 minute it will be great. First will just try to do it. If i wont be able to I will try to find some toturial online and if that does not work I will take a day or two to think about how it can be done.
 
 ## Week 12 Log
+First I tried to just match it but I couldn't. Then I tried to find toturials online but did not have luck. It took me a day to think of a way that might work. What I am doing now it solving it like I do a regular cube but think of the colours as groups. One group could be 3 yellows, 2 reds, 3 greens, 2 blues and I know that for the other cube I need to have the first layer as 3 yellows, 2 reds, 3 greens, 2 blues. I was not able to solve it yet but I think it can be done.
 
 ## Week 13 Log
+I was able to do it. **Way harder** then I thought it will be.
 
 ## Week 14 Log
