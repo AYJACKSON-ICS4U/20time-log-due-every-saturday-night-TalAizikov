@@ -30,7 +30,7 @@ My times have improved so much! I got from 80 minutes to 3 minutes! Now I rememb
 
 
 ## Week 5 Log
-My times stopped getting lower so I learn 2 advanced methods. I learned how to solve the cross on the white side (instead of the yellow), and I learned f2l. First my times were horrible. My times went up from 2:30 to about 3:30 - 4:00. I was thinking to go back to beginners method but I kept trying and my times kept getting better. My best time so far is **1:04!!** .
+My times stopped getting lower so I learned 2 advanced methods. I learned how to solve the cross on the white side (instead of the yellow), and I learned f2l. First my times were horrible. My times went up from 2:30 to about 3:30 - 4:00. I was thinking to go back to beginners method but I kept trying and my times kept getting better. My best time so far is **1:04!!** .
 
 ## Week 6 Log
 The progress is going super well. My times keep getting lower, but I am scared I might stop getting lower. Right now my best time is **00:54** which is pretty good. I keep getting closer and closer to my goal but my progress is getting slower. 
