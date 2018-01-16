@@ -54,6 +54,7 @@ I got this **amazing** idea to unsolve a rubics cube. I want to be able to match
 First I tried to just match it but I couldn't. Then I tried to find toturials online but did not have luck. It took me a day to think of a way that might work. What I am doing now it solving it like I do a regular cube but think of the colours as groups. One group could be 3 yellows, 2 reds, 3 greens, 2 blues and I know that for the other cube I need to have the first layer as 3 yellows, 2 reds, 3 greens, 2 blues. I was not able to solve it yet but I think it can be done.
 
 ## Week 13 Log
-I was able to do it. **Way harder** then I thought it will be.
+I was able to do it. **Way harder** then I thought it will be. I tried three different methods and only one of them worked. right now it takes me about an hour to do it but I am planning to improve my time to around 5 minutes.
 
 ## Week 14 Log
+I finaly got 5 minutes, my best time is 4:57 and I am not planning to try to get a better time because it is to hard, at least for now. I might come back to this later but not any time soon.
